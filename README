@@ -1,0 +1,8 @@
+Pagerank Implementation
+
+Calculates pagerank given the link information from a corpus
+
+files with link information are in linkfiles/
+
+wt2g is the sample file used by TREC
+http://ir.dcs.gla.ac.uk/test_collections/access_to_data.html
